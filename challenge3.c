@@ -1,7 +1,9 @@
 #include <stdio.h>
-int main() {
+int main() 
+{
     int a = 0, b = 1, c, i = 1;
-    while (i <= 4) {
+    while (i <= 4) 
+    {
         c = a + b;
         printf("%d ", c);
         a = b;

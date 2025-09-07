@@ -1,7 +1,9 @@
 #include <stdio.h>
-int main() {
+int main() 
+{
     int num = 4567, i = 0;
-    while (num > 0) {
+    while (num > 0) 
+    {
         i++;
         num /= 10;
     }

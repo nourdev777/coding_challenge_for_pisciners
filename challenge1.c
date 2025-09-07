@@ -1,7 +1,9 @@
 #include <stdio.h>
-int main() {
+int main() 
+{
     int n = 6, fact = 1, i = 1;
-    while (i < n) {
+    while (i < n)
+     {
         fact *= i;
         i++;
     }

@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main() {
+int main() 
+{
     char ch = 'Z';
     printf("%c", ch);
     return 0;
