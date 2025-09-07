@@ -10,6 +10,6 @@ int main()
 // a) 7
 // b) 34
 // c) 12
-// d) 0
+// d) ERROR
 
 // Answer: a) 7

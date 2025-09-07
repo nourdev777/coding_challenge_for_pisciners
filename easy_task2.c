@@ -18,4 +18,4 @@ int main()
 // c) 2
 // d) 1 1
 
-// Answer: b) 1 
+// Answer: b) 1
