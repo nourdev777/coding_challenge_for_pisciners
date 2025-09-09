@@ -1,13 +1,13 @@
 #include <stdio.h>
 int main() 
 {
-    int n = 6, fact = 1, i = 1;
+    int n = 6, f = 1, i = 1;
     while (i < n)
     {
-        fact *= i;
+        f *= i;
         i++;
     }
-    printf("%d", fact);
+    printf("%d", f);
     return 0;
 }
 
