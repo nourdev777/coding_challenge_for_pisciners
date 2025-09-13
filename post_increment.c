@@ -1,9 +1,12 @@
 #include <stdio.h>
 int main() {
     int i = 5;
-    printf("%d %d %d\n", i, i++, ++i);
+    printf("%d\n", i);
+    printf("%d\n", i++);
+    printf("%d\n", ++i);
     return 0;
 }
+
 
 // A) 5 5 7
 // B) 5 6 7
